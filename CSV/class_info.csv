@@ -1,0 +1,42 @@
+﻿class_id,class_code,class_title,type,year,link
+1,E1008,INTRO TO MACHINING,1,1,http://www.columbia.edu/cu/bulletin/uwb/subj/MECE/E1008-20201-001/
+2,E3028,MECHANICAL ENGINEERING LAB II,8,3,http://www.columbia.edu/cu/bulletin/uwb/subj/MECE/E3028-20201-001/
+3,E3105,MECHANICS,1,2,http://www.columbia.edu/cu/bulletin/uwb/subj/ENME/E3105-20201-001/
+4,E3311,HEAT TRANSFER,7,3,http://www.columbia.edu/cu/bulletin/uwb/subj/MECE/E3311-20201-001/
+5,E3408,COMPUTER GRAPHICS &amp; DESIGN,1,2,http://www.columbia.edu/cu/bulletin/uwb/subj/MECE/E3408-20201-002/
+6,E3411,REVIEW OF FUNDMNTLS MECE ENGR,8,2,http://www.columbia.edu/cu/bulletin/uwb/subj/MECE/E3411-20201-001/
+7,E3430,ENGINEERING DESIGN,1,4,http://www.columbia.edu/cu/bulletin/uwb/subj/MECE/E3430-20201-001/
+8,E3450,COMPUTER AIDED DESIGN,1,3,http://www.columbia.edu/cu/bulletin/uwb/subj/MECE/E3450-20201-001/
+9,E3610,MATERIALS/PROCESSES IN MANUFAC,8,3,http://www.columbia.edu/cu/bulletin/uwb/subj/MECE/E3610-20201-001/
+10,E3901,HONORS TUTORIAL IN MECH ENGIN,8,3,http://www.columbia.edu/cu/bulletin/uwb/subj/MECE/E3901-20201-001/
+11,E3998,PROJECTS IN MECH ENGINEERING,8,3,http://www.columbia.edu/cu/bulletin/uwb/subj/MECE/E3998-20201-001/
+12,E3999,FIELDWORK,8,3,http://www.columbia.edu/cu/bulletin/uwb/subj/MECE/E3999-20201-001/
+13,E4058,MECHATRONICS &amp; EMBEDDED MICRO,3,4,http://www.columbia.edu/cu/bulletin/uwb/subj/MECE/E4058-20201-001/
+14,E4100,MECHANICS OF FLUIDS,6,4,http://www.columbia.edu/cu/bulletin/uwb/subj/MECE/E4100-20201-001/
+15,E4200,HUMAN-CENTERED DESIGN AND INNO,1,3,http://www.columbia.edu/cu/bulletin/uwb/subj/IEME/E4200-20201-002/
+16,E4214,MEMS PRODUCTION &amp; PACKAGING,1,4,http://www.columbia.edu/cu/bulletin/uwb/subj/MECE/E4214-20201-001/
+17,E4302,ADVANCED THERMODYNAMICS,2,4,http://www.columbia.edu/cu/bulletin/uwb/subj/MECE/E4302-20201-001/
+18,E4305,MECH &amp; THERMODYNAMICS OF PROPULSION,2,4,http://www.columbia.edu/cu/bulletin/uwb/subj/MECE/E4305-20201-001/
+19,E4306,INTRO TO AERODYNAMICS,4,3,http://www.columbia.edu/cu/bulletin/uwb/subj/MECE/E4306-20201-001/
+20,E4314,ENERGY DYNAMICS OF GREEN BLDGS,8,3,http://www.columbia.edu/cu/bulletin/uwb/subj/MECE/E4314-20201-001/
+21,E4520,DATA SCIENCE FOR MECHANICAL SYSTEMS,8,3,http://www.columbia.edu/cu/bulletin/uwb/subj/MECE/E4520-20201-001/
+22,E4601,DIGITAL CONTROL SYSTEMS,3,4,http://www.columbia.edu/cu/bulletin/uwb/subj/EEME/E4601-20201-001/
+23,E4606,DIGITAL MANUFACTURING,1,4,http://www.columbia.edu/cu/bulletin/uwb/subj/MECE/E4606-20201-001/
+24,E4609,COMPUTER AIDED MANUFACTURING,1,4,http://www.columbia.edu/cu/bulletin/uwb/subj/MECE/E4609-20201-001/
+25,E4611,ROBOTICS STUDIO,3,4,http://www.columbia.edu/cu/bulletin/uwb/subj/MECE/E4611-20201-001/
+26,E4710,MORPHOGENESIS:BIOL MAT SHP/STR,6,4,http://www.columbia.edu/cu/bulletin/uwb/subj/MEBM/E4710-20201-001/
+27,E4810,INTRO TO HUMAN SPACE FLIGHT,4,3,http://www.columbia.edu/cu/bulletin/uwb/subj/MEIE/E4810-20201-001/
+28,E4998,MS PROJECTS IN MECH ENGINEER,8,5,http://www.columbia.edu/cu/bulletin/uwb/subj/MECE/E4998-20201-001/
+29,E4999,FIELDWORK,8,5,http://www.columbia.edu/cu/bulletin/uwb/subj/MECE/E4999-20201-001/
+30,E6102,COMPUTATNL HEAT TRANSF-FL FLOW,7,5,http://www.columbia.edu/cu/bulletin/uwb/subj/MECE/E6102-20201-001/
+31,E6137,NANOSCALE ACTUATION &amp; SENSING,3,5,http://www.columbia.edu/cu/bulletin/uwb/subj/MECE/E6137-20201-001/
+32,E6310,MIXT THEORIES FOR BIOL TISSUES,6,5,http://www.columbia.edu/cu/bulletin/uwb/subj/MEBM/E6310-20201-001/
+33,E6313,ADVANCED HEAT TRANSFER,7,5,http://www.columbia.edu/cu/bulletin/uwb/subj/MECE/E6313-20201-001/
+34,E6400,ADVANCED MACHINE DYNAMICS,1,5,http://www.columbia.edu/cu/bulletin/uwb/subj/MECE/E6400-20201-001/
+35,E6616,ROBOT LEARNING,3,5,http://www.columbia.edu/cu/bulletin/uwb/subj/MECS/E6616-20201-001/
+36,E6617,"Advanced Kinematics, Dynamics, and Contr",3,5,http://www.columbia.edu/cu/bulletin/uwb/subj/MECE/E6617-20201-001/
+37,E6620,APPLIED SIGNAL RECOGNITION,3,5,http://www.columbia.edu/cu/bulletin/uwb/subj/MECE/E6620-20201-001/
+38,E8020,MASTERS THESIS,8,5,http://www.columbia.edu/cu/bulletin/uwb/subj/MECE/E8020-20201-001/
+39,E9001,GRADUATE RESEARCH AND STUDY II,8,6,http://www.columbia.edu/cu/bulletin/uwb/subj/MECE/E9001-20201-001/
+40,E9500,GRADUATE SEMINAR,8,6,http://www.columbia.edu/cu/bulletin/uwb/subj/MECE/E9500-20201-001/
+41,E9800,DOCTORAL RESEARCH INSTRUCTION,8,6,http://www.columbia.edu/cu/bulletin/uwb/subj/MECE/E9800-20201-001/
