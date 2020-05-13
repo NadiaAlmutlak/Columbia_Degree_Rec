@@ -73,9 +73,13 @@ for i in list_of_classes:
     total_class_ID.append(''.join(class_name))
 print(total_class_ID)
 
+
+
+
 total_class_sections=[]
 total_callnumber=[]
 total_credits=[]
+
 for i in list_of_classes:
     total_class_sections.append(i[2])
     total_callnumber.append(i[3])
@@ -85,7 +89,20 @@ print(total_callnumber)
 print(total_credits)
 
 
-dataset={"Course Name": total_class_ID ,'Call Number':total_callnumber,"Credits":total_credits} #converting the reviews list into a dictionary
+
+class_links=[]
+for a in soup.find_all('a', href=True):
+    print( "Found the URL:", a['href'])
+    class_links.append(a['href'])
+
+class_links=class_links[:-5]
+url_add="http://www.columbia.edu"
+class_links=[url_add + s for s in class_links]
+
+
+## For the purposes of this project, we just need the class titla and code
+dataset={"Course Code": total_class_ID, "Sections":total_class_sections  , "Credits": total_credits,
+         'Call_number': total_callnumber, "Class Link": class_links} #converting the reviews list into a dictionary
 review_data=pd.DataFrame.from_dict(dataset) #converting this dictionary into a dataframe
-review_data.to_csv('Scraping_data.csv',index=False)
+review_data.to_csv('Class_features1.csv',index=False)
 
